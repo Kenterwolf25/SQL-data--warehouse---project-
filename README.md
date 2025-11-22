@@ -1,4 +1,4 @@
-# SQL-data--warehouse---project-
+# SQL-data--warehouse-project-
 Building a modern data warehouse with SQL server , including ETL processes , data modelling and analytics
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
